@@ -361,7 +361,7 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
 
-  <project path="vendor/aokp" name="TheBr0ken/vendor_aokp" remote="gh" revision="jb-mr1" />
+  <project path="vendor/aokp" name="VigorAOKP/vendor_aokp" remote="gh" revision="jb-mr1" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
   <project path="vendor/htc/vigor" name="Chad0989/vendor_htc_vigor" remote="gh" revision="cm-10.1" />
 
