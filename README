@@ -1,8 +1,0 @@
-Repository for AOKP brunching
-
-To pull source run:
-$ repo init -u https://github.com/VigorAOKP/aokp_manifest.git -b jb422
-$ repo sync
-
-
-
