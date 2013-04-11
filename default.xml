@@ -40,7 +40,7 @@
   <project path="device/generic/x86" name="device/generic/x86" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
-  <project path="device/htc/vigor" name="Chad0989/device_htc_vigor" remote="gh" revision="cm-10.1" />
+  <project path="device/htc/vigor" name="VigorAOKP/device_htc_vigor" remote="gh" revision="cm-10.1" />
   <project path="device/htc/msm8660-common" name="Chad0989/android_device_htc_msm8660-common" remote="gh" revision="cm-10.1" />
   <project path="device/sample" name="device/sample" />
   <project path="device/ti/panda" name="device/ti/panda" groups="device" />
