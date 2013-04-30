@@ -7,7 +7,7 @@
 
   <remote  name="aokp"
            fetch="https://github.com/"
-           review="gerrit.sudoservers.com" />
+           review="gerrit.aokp.co" />
 
   <remote  name="gh"
            fetch="https://github.com/" />  
@@ -108,6 +108,7 @@
   <project path="external/jack" name="platform/external/jack" />
   <project path="external/javasqlite" name="platform/external/javasqlite" />
   <project path="external/javassist" name="platform/external/javassist" />
+  <project path="external/jbirdvegas/mGerrit" name="AOKP/external_jbirdvegas_mGerrit" remote="aokp" revision="master" />
   <project path="external/jdiff" name="platform/external/jdiff" />
   <project path="external/jhead" name="platform/external/jhead" />
   <project path="external/jmdns" name="platform/external/jmdns" />
@@ -263,7 +264,7 @@
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
   <project path="packages/apps/Browser" name="AOKP/packages_apps_Browser" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/Calculator" name="AOKP/packages_apps_Calculator" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="AOKP/packages_apps_Camera" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
@@ -274,7 +275,7 @@
   <project path="packages/apps/Email" name="AOKP/packages_apps_Email" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/Gallery2" name="AOKP/packages_apps_Gallery2" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="AOKP/packages_apps_Launcher2" remote="aokp" revision="jb-mr1" />
@@ -284,7 +285,7 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/PerformanceControl" name="AOKP/packages_apps_PerformanceControl" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
