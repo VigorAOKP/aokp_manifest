@@ -11,7 +11,11 @@ Then to sync up:
 
     repo sync
 
-To build:
+To avoid conflicts remove this directory:
+
+    device/htc/vigor/overlays/packages/Settings
+
+Then on to build:
 
     . build/envsetup.sh && brunch vigor
 
