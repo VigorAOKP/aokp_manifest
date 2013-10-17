@@ -60,7 +60,7 @@
   <project path="device/htc/msm8660-common" name="vigor/android_device_htc_msm8660-common" remote="cm" revision="cm-10.2" groups="notdefault,device,vigor" />
   <project path="device/htc/msm8960-common" name="AOKP/device_htc_msm8960-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7,m7att,m7spr,m7tmo,m7ul,evita" />
   <project path="device/htc/s4-common" name="AOKP/device_htc_s4-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,htc,evita" />
-  <project path="device/htc/vigor" name="VigorAOKP/device_htc_m7att" remote="aokp" revision="jb-mr2" groups="notdefault,device,htc,vigor" />
+  <project path="device/htc/vigor" name="VigorAOKP/device_htc_vigor" remote="aokp" revision="jb-mr2" groups="notdefault,device,htc,vigor" />
   <project path="device/lge/iprj-common" name="AOKP/device_lge_iprj-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,p930,su640,vs920" />
   <project path="device/lge/mako" name="AOKP/device_lge_mako" remote="aokp" revision="jb-mr2" groups="notdefault,device,mako" />
   <project path="device/lge/p930" name="AOKP/device_lge_p930" remote="aokp" revision="jb-mr2" groups="notdefault,device,p930" />
